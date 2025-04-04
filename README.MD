@@ -9,6 +9,7 @@ Curso de la **Maestría en Ciencia de Datos** de la [Universidad Autónoma de Nu
   - [Código Tarea 2](./Tarea%202/Tarea%202.ipynb)
 - [Tarea 3] Pendiente
 - [Tarea 4] Pendiente
+- [Código Tarea 4](./Tarea%204/Tarea%204.ipynb)
 - [Tarea 5](./Tarea%205/Tarea_5.pdf)
   - [Código Tarea 5](./Tarea%205/Tarea%205.ipynb)
 - [Tarea 7-8](./Tarea%207-8/Tarea_7_8.pdf)
